@@ -30,21 +30,4 @@ echo $person->name ;
 
 echo "\n";
 
-
-
-$person2 = new Person('Piedad', 30);
-
-$person2->run();
-
-
-echo $person2->name;
-
-
-
-
-
-
-
-
-
- ?>
+?>
